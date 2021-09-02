@@ -1,2 +1,0 @@
-# pala
-testing github
